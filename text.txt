@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-master
+master changes
 =======
 branch1
 >>>>>>> branch1
